@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ef73773.css",
-    "main.js": "/static/js/main.c7598603.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.6ef73773.css.map": "/static/css/main.6ef73773.css.map",
-    "main.c7598603.js.map": "/static/js/main.c7598603.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/kaleb.github.io/static/css/main.cb1c0e30.css",
+    "main.js": "/kaleb.github.io/static/js/main.9b32a427.js",
+    "static/js/787.1ed0c42c.chunk.js": "/kaleb.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/slick.svg": "/kaleb.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/kaleb.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/kaleb.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/kaleb.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/kaleb.github.io/index.html",
+    "main.cb1c0e30.css.map": "/kaleb.github.io/static/css/main.cb1c0e30.css.map",
+    "main.9b32a427.js.map": "/kaleb.github.io/static/js/main.9b32a427.js.map",
+    "787.1ed0c42c.chunk.js.map": "/kaleb.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef73773.css",
-    "static/js/main.c7598603.js"
+    "static/css/main.cb1c0e30.css",
+    "static/js/main.9b32a427.js"
   ]
 }
