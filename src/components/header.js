@@ -1,18 +1,42 @@
 import React from 'react';
+import { styled } from '@mui/system';
+import { AppBar, Toolbar, Typography, Link } from '@mui/material';
+
+
+const HeaderContainer = styled(AppBar)`
+	background-color: #0f1653;
+`;
+
+const Title = styled(Typography)`
+	flex-grow: 1;
+	font-size: 30px;
+	color: #f7f7f7f7;
+`;
+
+const StyledLink = styled(Link)`
+	color: #f7f7f7f7;
+	font-weight: bold;
+
+	&:hover{
+		 color: #0f1653;
+	}
+`;
 
 const Header = () => {
     return(
-        <header>
-            <h1>Meu Portfolio</h1>
+        <HeaderContainer position="static">
+					<Toolbar>
+            <Title>Meu Portfolio</Title>
             <nav>
                 <ul>
-                    <li><a href="#about">Sobre</a></li>
-                    <li><a href="#skills">Habilidades</a></li>
-                    <li><a href="#projects">Projetos</a></li>
-                    <li><a href="#contact">Contato</a></li>
+                    <li><StyledLink href="#about">Sobre</StyledLink></li>
+                    <li><StyledLink href="#skills">Habilidades</StyledLink></li>
+                    <li><StyledLink href="#projects">Projetos</StyledLink></li>
+                    <li><StyledLink href="#contact">Contato</StyledLink></li>
                 </ul>
             </nav>
-        </header>
+					</Toolbar>
+        </HeaderContainer>
     );
 };
 
